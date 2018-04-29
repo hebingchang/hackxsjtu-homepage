@@ -1,6 +1,6 @@
 # hacksjtu
 
-> HACKxSJTU 2017 leaflet
+> HACKxSJTU 2018 leaflet
 
 ## Build Setup
 

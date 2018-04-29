@@ -10,7 +10,7 @@
 export default {
   cn: {
     // Banner
-    mobileTitle: '2017<br>上海交通大学<br>黑客马拉松',
+    mobileTitle: '2018<br>上海交通大学<br>黑客马拉松',
 
     // Navbar
     views: ['关于我们', '申请入口', '活动日程', '常见问题', '赞助单位'],

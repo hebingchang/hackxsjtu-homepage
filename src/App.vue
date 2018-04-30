@@ -27,9 +27,9 @@
 </template>
 
 <script>
+import 'jquery'
+import 'jquery.scrollto'
 import boot from 'booting-nav'
-import scroll from 'scroll'
-
 import Hello from './components/Hello.vue'
 import Banner from './components/Banner.vue'
 import Navbar from './components/Navbar.vue'
@@ -40,7 +40,6 @@ import Timeline from './components/Timeline.vue'
 import Faq from './components/FAQ.vue'
 import AppMap from './components/AppMap.vue'
 import AppFooter from './components/AppFooter.vue'
-
 export default {
   name: 'app',
   components: {
@@ -59,7 +58,7 @@ export default {
   },
   methods: {
     slideTo (ind) {
-      scroll.top(document.body, this.scrollAnchors[ind + 1].offsetTop)
+      $.scrollTo(this.scrollAnchors[ind + 1], 500)// 道理上来讲我就改了这一行
     },
     toggleLocale () {
       this.$i18n.locale() === 'cn' ? this.$i18n.set('en') : this.$i18n.set('cn')

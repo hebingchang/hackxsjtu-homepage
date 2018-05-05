@@ -104,7 +104,7 @@ export default {
       '请发送邮件至 service@hackx.org。'
     ],
 
-    address: '上海市闵行区东川路800号<br>上海交通大学闵行校区<br>电子信息与电气工程学院4号楼',
+    address: '上海市闵行区东川路800号<br>上海交通大学闵行校区<br>微电子楼 报告厅',
     // Footer
     rightStatement: 'HACK×SJTU All rights reserved',
     host: '主办方',
@@ -124,7 +124,7 @@ export default {
               <p>Student developers could also take this chance to connect with each sponsor’s developers and recruiters, in order to find their right fit for future career. HACK×SJTU will also invite top-notch venture capital investors to be part of the judging committee. Students could potentially benefit from those offerings by taking their projects to the next level. We hope, by the end of HACK×SJTU, students will not only receive many amazing prizes, but mostly importantly have fun, make great friends and turn the craziest idea into reality!</p>`,
 
     signUp: 'Sign Up Now',
-    signUpPrompt: '<p>比赛时间: 2018-06-01 ~ 06-03</p><p>报名时间: 2018-05-07 ~ 05-27</p><p>请您填写下方申请入口中的正式申请表</p>',
+    signUpPrompt: '<p>Competition Period: 2018-06-01 ~ 06-03</p><p>Registration Period: 2018-05-07 ~ 05-27</p><p>Please fill in the application form in the link below</p>',
 
     schedule: [
       'event-lg|6/1|Friday',
@@ -202,7 +202,7 @@ export default {
       'Accepted students not only have chance to win some great prizes and technology gadgets, but also receive awards from sponsor companies or even internship/full-time job offers. Nothing is impossible here, come and join us!!!',
       'If you have any other questions, please email us at service@hackx.org.'
     ],
-    address: '上海市闵行区东川路800号<br>上海交通大学闵行校区<br>电子信息与电气工程学院4号楼',
+    address: 'Microelectronics Building Auditorium<br>Shanghai Jiao Tong University Minhang Canpus<br>800 Dongchuan Rd., Shanghai',
 
     rightStatement: 'HACK×SJTU All rights reserved',
     host: 'HOSTS',

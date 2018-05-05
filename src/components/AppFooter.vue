@@ -13,7 +13,6 @@
     </div>
 
     <h1 v-html="$t('organizer')"></h1>
-    <img src="../assets/grapetech.png">
     <img src="../assets/hackx.png">
 
     <h1 v-html="$t('sponsor')"></h1>

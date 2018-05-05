@@ -202,7 +202,7 @@ export default {
       'Accepted students not only have chance to win some great prizes and technology gadgets, but also receive awards from sponsor companies or even internship/full-time job offers. Nothing is impossible here, come and join us!!!',
       'If you have any other questions, please email us at service@hackx.org.'
     ],
-    address: 'Microelectronics Building Auditorium<br>Shanghai Jiao Tong University Minhang Canpus<br>800 Dongchuan Rd., Shanghai',
+    address: 'Microelectronics Building Auditorium<br>Shanghai Jiao Tong University Minhang Campus<br>800 Dongchuan Rd., Shanghai',
 
     rightStatement: 'HACK×SJTU All rights reserved',
     host: 'HOSTS',

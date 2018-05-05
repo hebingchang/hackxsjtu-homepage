@@ -23,11 +23,11 @@ export default {
 
     // Sign up
     signUp: '点击报名',
-    signUpPrompt: '<p>比赛时间: 2017-05-05 ~ 05-07</p><p>报名时间: 2017-04-10 ~ 04-29</p><p>请您填写下方申请入口中的正式申请表</p>',
+    signUpPrompt: '<p>比赛时间: 2018-06-01 ~ 06-03</p><p>报名时间: 2018-05-07 ~ 05-27</p><p>请您填写下方申请入口中的正式申请表</p>',
 
     // Timeline
     schedule: [
-      'event-lg|5/5|星期五',
+      'event-lg|6/1|星期五',
       'span-prepare',
       'event-prepare|17:30|活动签到与物品安置',
       'span-prepare',
@@ -46,7 +46,7 @@ export default {
       'event-prepare|21:00|项目开发',
       'span-prepare',
       '---',
-      'event-lg|5/6|星期六',
+      'event-lg|6/2|星期六',
       'span-rest',
       'event-rest|7:30|早餐',
       'span-rest',
@@ -61,7 +61,7 @@ export default {
       'event-rest|21:00|项目开发',
       'span-rest',
       '---',
-      'event-lg|5/7|星期日',
+      'event-lg|6/3|星期日',
       'span-crazy',
       'event-crazy|7:30|早餐',
       'span-crazy',
@@ -115,7 +115,7 @@ export default {
   },
 
   en: {
-    mobileTitle: '2017<br>SJTU HACKATHON',
+    mobileTitle: '2018<br>SJTU HACKATHON',
     views: ['About Us', 'Sign Up', 'Schedule', 'FAQ', 'Sponsors'],
 
     aboutus: `<p>Hackathons have grown to become a global student movement. Now Shanghai Jiaotong University will also join this movement by creating HACK×SJTU this semester. HACK×SJTU will select the best student developers across China and invite most splendid sponsor companies across China and Silicon Valley to join our hackathon.</p>
@@ -124,10 +124,10 @@ export default {
               <p>Student developers could also take this chance to connect with each sponsor’s developers and recruiters, in order to find their right fit for future career. HACK×SJTU will also invite top-notch venture capital investors to be part of the judging committee. Students could potentially benefit from those offerings by taking their projects to the next level. We hope, by the end of HACK×SJTU, students will not only receive many amazing prizes, but mostly importantly have fun, make great friends and turn the craziest idea into reality!</p>`,
 
     signUp: 'Sign Up Now',
-    signUpPrompt: '<p>比赛时间: 2017-05-05 ~ 05-07</p><p>报名时间: 2017-04-10 ~ 04-29</p><p>请您填写下方申请入口中的正式申请表</p>',
+    signUpPrompt: '<p>比赛时间: 2018-06-01 ~ 06-03</p><p>报名时间: 2018-05-07 ~ 05-27</p><p>请您填写下方申请入口中的正式申请表</p>',
 
     schedule: [
-      'event-lg|5/5|Friday',
+      'event-lg|6/1|Friday',
       'span-prepare',
       'event-prepare|17:30|Check-in',
       'span-prepare',
@@ -146,7 +146,7 @@ export default {
       'event-prepare|21:00|Hacking Time',
       'span-prepare',
       '---',
-      'event-lg|5/6|Saturday',
+      'event-lg|6/2|Saturday',
       'span-rest',
       'event-rest|7:30|Breakfast',
       'span-rest',
@@ -161,7 +161,7 @@ export default {
       'event-rest|21:00|Hacking Time',
       'span-rest',
       '---',
-      'event-lg|5/7|Sunday',
+      'event-lg|6/3|Sunday',
       'span-crazy',
       'event-crazy|7:30|Breakfast',
       'span-crazy',

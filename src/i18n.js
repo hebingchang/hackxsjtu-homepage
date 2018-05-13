@@ -10,7 +10,7 @@
 export default {
   cn: {
     // Banner
-    mobileTitle: '2018<br>上海交通大学<br>黑客马拉松',
+    mobileTitle: '2018<br>上海交通大学<br>创客马拉松',
 
     // Navbar
     views: ['关于我们', '申请入口', '活动日程', '常见问题', '赞助单位'],
@@ -108,7 +108,7 @@ export default {
     // Footer
     rightStatement: 'HACK×SJTU All rights reserved',
     host: '主办方',
-    hosts: ['共青团上海交通大学委员会', '上海交通大学电子信息与电气工程学院', '上海交通大学电子信息与电气工程学院学生会'],
+    hosts: ['上海交通大学电子信息与电气工程学院', '共青团上海交通大学电子信息与电气工程学院委员会', '上海交通大学电子信息与电气工程学院学生会'],
     organizer: '策划协办方',
     sponsor: '合作赞助方',
     supportCompany: '活动支持方'

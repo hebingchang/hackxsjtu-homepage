@@ -18,29 +18,14 @@
     <h1 v-html="$t('sponsor')"></h1>
 
     <div>
-      <!--<div class="img-flow-horiz img-sp" v-for="sp in sponsors">
+      <div class="img-flow-horiz img-sp" v-for="sp in sponsors">
         <div v-for="(href, name) in sp">
-          <!-- img used in v-for should be put directly in /static/img dir
+          <!-- img used in v-for should be put directly in /static/img dir -->
           <a :href="href" target="_blank">
             <img :src="'/static/img/brands/' + name + '.png'">
           </a>
         </div>
-      </div>-->
-      <h2>发布中...</h2>
-    </div>
-
-    <h1 v-html="$t('supportCompany')"></h1>
-
-    <div>
-      <!--<div class="img-flow-horiz" v-for="sp in support">
-        <div v-for="(href, name) in sp">
-          <!-- img used in v-for should be put directly in /static/img dir
-          <a :href="href" target="_blank">
-            <img :src="'/static/img/brands/' + name + '.png'">
-          </a>
-        </div>
-      </div>-->
-      <h2>发布中...</h2>
+      </div>
     </div>
 
     <div class="flex-wrapper">
@@ -64,24 +49,18 @@ export default {
   data () {
     return {
       sponsors: [{
-        'ibm': 'http://www.ibm.com',
-        'ibm-bluemix': 'http://bluemix.net',
-        'nvidia': 'http://www.nvidia.com',
-        'yingyuliulishuo': 'https://www.liulishuo.com'
+        'dfrobot': 'https://www.dfrobot.com/',
+        'genaro': 'https://genaro.network/',
+        'lls': 'https://www.liulishuo.com/'
       }, {
-        'microsoft': 'https://www.microsoft.com',
-        'ctrip': 'http://www.ctrip.com/',
-        'sensetime': 'http://www.sensetime.com',
-        'qingcloud': 'https://www.qingcloud.com'
+        'netease': 'http://www.163.com/',
+        'neteasedj': 'https://dongjian.163.com/',
+        'neteasegame': 'http://game.163.com/'
       }, {
-        'github': 'https://github.com',
-        'ubuntu': 'http://cn.ubuntu.com',
-        'ruff': 'https://ruff.io',
-        'jisuanke': 'http://www.jisuanke.com'
-      }],
-      support: [{
-        'innospring': 'http://www.innospring.net',
-        'zhenfund': 'http://www.zhenfund.com'
+        'mgy': 'http://www.mushroomcloud.cc/',
+        'ruffchain': 'https://ruffchain.com/',
+        'vivex': 'https://vivex.vive.com/',
+        'wework': 'https://www.wework.cn/'
       }]
     }
   }

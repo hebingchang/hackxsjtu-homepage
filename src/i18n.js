@@ -108,7 +108,7 @@ export default {
     // Footer
     rightStatement: 'HACK×SJTU All rights reserved',
     host: '主办方',
-    hosts: ['上海交通大学电子信息与电气工程学院', '共青团上海交通大学电子信息与电气工程学院委员会', '上海交通大学电子信息与电气工程学院学生会'],
+    hosts: ['上海交通大学电子信息与电气工程学院', '共青团上海交通大学电子信息与电气工程学院委员会', '国家级电工电子实验教学示范中心（上海交通大学）', '上海交通大学电子信息与电气工程学院学生会'],
     organizer: '策划协办方',
     sponsor: '合作赞助方',
     supportCompany: '活动支持方'
@@ -206,7 +206,7 @@ export default {
 
     rightStatement: 'HACK×SJTU All rights reserved',
     host: 'HOSTS',
-    hosts: ['The Committee of Youth League at Shanghai Jiaotong University', 'School of Electronic, Information and Electrical Engineering(SEIEE) at Shanghai Jiaotong University', 'SEIEE Student Union at Shanghai Jiaotong University'],
+    hosts: ['School of Electronic, Information and Electrical Engineering(SEIEE) at Shanghai Jiaotong University', 'The Committee of Youth League at Shanghai Jiaotong University School of Electronic, Information and Electrical Engineering', 'Electrical and Electronic Experiment Teaching Center of Shanghai Jiao Tong University', 'SEIEE Student Union at Shanghai Jiaotong University'],
     organizer: 'EVENT ORGANIZER',
     sponsor: 'SPONSORS',
     supportCompany: 'SUPPORT'

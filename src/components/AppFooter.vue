@@ -49,18 +49,18 @@ export default {
   data () {
     return {
       sponsors: [{
-        'dfrobot': 'https://www.dfrobot.com/',
-        'genaro': 'https://genaro.network/',
-        'lls': 'https://www.liulishuo.com/'
-      }, {
-        'netease': 'http://www.163.com/',
-        'neteasedj': 'https://dongjian.163.com/',
-        'neteasegame': 'http://game.163.com/'
-      }, {
-        'mgy': 'http://www.mushroomcloud.cc/',
-        'ruffchain': 'https://ruffchain.com/',
+        'wework': 'https://www.wework.cn/',
         'vivex': 'https://vivex.vive.com/',
-        'wework': 'https://www.wework.cn/'
+        'netease': 'http://www.163.com/'
+      }, {
+        'neteasedj': 'https://dongjian.163.com/',
+        'neteasegame': 'http://game.163.com/',
+        'genaro': 'https://genaro.network/'
+      }, {
+        'lls': 'https://www.liulishuo.com/',
+        'ruffchain': 'https://ruffchain.com/',
+        'dfrobot': 'https://www.dfrobot.com/',
+        'mgy': 'http://www.mushroomcloud.cc/'
       }]
     }
   }

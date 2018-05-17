@@ -51,12 +51,13 @@ export default {
       sponsors: [{
         'wework': 'https://www.wework.cn/',
         'vivex': 'https://vivex.vive.com/',
-        'netease': 'http://www.163.com/'
+        'netease': 'http://www.163.com/',
+        'neteasedj': 'https://dongjian.163.com/'
       }, {
-        'neteasedj': 'https://dongjian.163.com/',
         'neteasegame': 'http://game.163.com/',
         'genaro': 'https://genaro.network/',
-        'lls': 'https://www.liulishuo.com/'
+        'lls': 'https://www.liulishuo.com/',
+        'innospace': 'http://www.innospaceplus.com.cn/'
       }, {
         'ibm': 'http://ibm.com/cloud-computing',
         'ruffchain': 'https://ruffchain.com/',
